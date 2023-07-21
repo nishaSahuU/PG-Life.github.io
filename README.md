@@ -3,3 +3,49 @@
 <p>
 PG Life website is a fully responsive website designed using HTML, CSS, Boootstrap, MySQL, PHP, Javascript, React. Through this website users can book PGs by seeing the room environment, facilities available, and the review of that PG.
 </p>
+
+<div align="center">
+    <h1 align="center">PG Life</h1>
+  <p align="center">
+    A website for people who are searching for Rental apartment.
+    <br />
+    </p>
+</div>
+
+
+### Built With
+
+This website was built with
+
+* HTML
+* CSS
+* JavaScript
+* BootStrap
+* PHP
+* MySQL
+* React.js
+
+## Features
+
+* A header section with the logo and Sign-up and Login Modal.
+* A search bar is present to search Renatl apartment by Cities.
+* A List of Properties available in cities will be viewed.
+* Filter option is available.
+*  Dashboard page.
+* A footer section.
+  
+
+### Installation
+
+To get a local copy up and running follow these simple steps.
+1. Fork the Project
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/marvel.git
+   ```
+3. Type
+   ```sh
+   cd
+   ```
+   
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

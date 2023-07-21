@@ -1,8 +1,3 @@
-# PG-Life
-
-<p>
-PG Life website is a fully responsive website designed using HTML, CSS, Boootstrap, MySQL, PHP, Javascript, React. Through this website users can book PGs by seeing the room environment, facilities available, and the review of that PG.
-</p>
 
 <div align="center">
     <h1 align="center">PG Life</h1>
@@ -12,6 +7,8 @@ PG Life website is a fully responsive website designed using HTML, CSS, Boootstr
     </p>
 </div>
 
+### Home page
+ ![Image 2](https://github.com/nishaSahuU/PG-Life.github.io/assets/82632229/c7c811a1-95b9-4140-97c8-ed12d81f6095)
 
 ### Built With
 
@@ -26,7 +23,7 @@ This website was built with
 * React.js
 
 ## Features
-
+PG Life website is a fully responsive website designed using HTML, CSS, Boootstrap, MySQL, PHP, Javascript, React. Through this website users can book PGs by seeing the room environment, facilities available, and the review of that PG.
 * A header section with the logo and Sign-up and Login Modal.
 * A search bar is present to search Renatl apartment by Cities.
 * A List of Properties available in cities will be viewed.

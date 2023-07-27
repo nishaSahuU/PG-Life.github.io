@@ -7,8 +7,14 @@
     </p>
 </div>
 
+
+
 ### Home page
  ![Image 2](https://github.com/nishaSahuU/PG-Life.github.io/assets/82632229/c7c811a1-95b9-4140-97c8-ed12d81f6095)
+
+###Demo
+Link: https://youtu.be/exlZ7PVz0e4
+
 
 ### Built With
 
@@ -38,7 +44,7 @@ To get a local copy up and running follow these simple steps.
 1. Fork the Project
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/marvel.git
+   git clone https://github.com/your_username_/repo_name.git
    ```
 3. Type
    ```sh

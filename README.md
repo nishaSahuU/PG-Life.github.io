@@ -54,5 +54,13 @@ To get a local copy up and running follow these simple steps.
    ```sh
    cd PG-Life.github.io
    ```
+     ### Now Connecting Database
+
+4. Open phpmyadmin on your browser 
+5. Then, click on databases tab
+6. Create database naming “pglife” and then click on import tab
+7. Click on browse file and select “pglife.sql” file from this repository 
+8. Click on go.
+
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

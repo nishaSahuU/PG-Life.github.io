@@ -48,11 +48,11 @@ To get a local copy up and running follow these simple steps.
 1. Fork the Project
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/repo_name.git
+   git clone https://github.com/your_username_/PG-Life.github.io.git
    ```
 3. Type
    ```sh
-   cd repo_name
+   cd PG-Life.github.io
    ```
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

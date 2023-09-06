@@ -15,6 +15,10 @@
 ###Demo
 Link: https://youtu.be/exlZ7PVz0e4
 
+###Website link
+Link: https://youtu.be/exlZ7PVz0e4](https://chanceless-giants.000webhostapp.com/
+
+
 
 ### Built With
 
@@ -48,7 +52,7 @@ To get a local copy up and running follow these simple steps.
    ```
 3. Type
    ```sh
-   cd
+   cd repo_name
    ```
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
